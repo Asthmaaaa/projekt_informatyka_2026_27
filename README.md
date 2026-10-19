@@ -1,4 +1,4 @@
 # Projekt infa 
  
-Autor: Michaˆ Marquardt 
+Autor: Michal Marquardt 
 Laboratorium informatyki 2026/27 
